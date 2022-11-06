@@ -1,0 +1,2 @@
+[tool.yapf]
+ARITHMETIC_PRECEDENCE_INDICATION = true
